@@ -1,0 +1,163 @@
+body {
+    background-image:url(movimento.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padd
+}
+img{
+    border-radius: 40%;
+}
+header {
+    background-color: #4F3838;
+    color: white;
+    text-align: center;
+    font-size: 25;
+    font-family: "Arial";
+    padding: 4px;
+}
+.Morgan{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 3%;
+    font-family: "Arial";
+    color: #ff0000;
+    font-size: 30px;
+}
+
+.Morgan>a{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #ffffff;
+}
+.Will{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 3%;
+    font-family: "Arial";
+    color: #ff0000;
+    font-size: 30px;
+    position: absolute; top: 10%; left: 30%;
+}
+
+.Will>a{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #ffffff;
+}
+.Pelé{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 3%;
+    font-family: "Arial";
+    color: #ff0000;
+    font-size: 30px;
+    position: absolute; top: 10%; right: 10%;
+}
+
+.Pelé>a{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #ffffff;
+}
+.Nelson{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-family: "Arial";
+    color: #ff0000;
+    font-size: 30px;
+}
+
+.Nelson>a{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.Mumuzinho{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 3%;
+    font-family: "Arial";
+    color: #ff0000;
+    font-size: 30px;
+    position: absolute; top: 45%; left: 30%;
+}
+
+.Mumuzinho>a{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.Péricles{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 3%;
+    font-family: "Arial";
+    color: #ff0000;
+    font-size: 30px;
+    position: absolute; top: 45%; right: 10%;
+}
+
+.Péricles>a{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #ffffff;
+}
+.Mbappe{
+    display: flex;
+    margin-left: 40%;
+    margin-top: 4%;
+    font-family: "Arial";
+    color: #ff0000;
+    font-size: 30px;
+}
+
+.Mbappe>a{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #ffffff;
+}
+button {
+    background-color: #ffffff;
+    font-family: "Arial";
+    color: rgb(0, 0, 0);
+    align-self: center;
+    cursor: pointer;
+    border: black;
+    border-radius: 4px;
+    padding: 13px 11px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 49% ;
+}
+
+
+
+footer {
+    background-color: #4F3838;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    padding: 30px;
+    position: 0;
+    box-align: center;
+}
